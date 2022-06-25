@@ -1,4 +1,4 @@
-Johnny Coder
+Arnav Sule
 ============
 
 -------------------     ----------------------------
@@ -10,8 +10,8 @@ MyCountry                           1800 my-phone-nr
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2021-2025 (expected)
+:   **BTech, Materials Science**; IIT Jammu
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
