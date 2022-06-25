@@ -22,7 +22,6 @@ Education
 Experience
 ----------
 
-**(L*nd) ;)**
 
 **Your Most Recent Work Experience:**
 
